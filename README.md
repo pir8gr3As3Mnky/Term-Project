@@ -6,7 +6,7 @@ Designed by: Nikhil Ollukaren
 
 Overview
 
-This project was designed to let us explore and appply the knoledge that I gained from the course. 
+This project was designed to let us explore and appply the knowledge that I gained from the course. 
 
 ######!!!! need to edit from here down !!!!######
 
