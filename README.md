@@ -21,7 +21,7 @@ The development project gives students a chance to apply their knowledge and ski
 There are four choices of development project:
 1.	Redesign a mobile friendly website for an existing live website which is not mobile optimized.
 2.	Develop a mobile friendly website for a real organization which has no website.
---> 3.	Replicate or even improve an existing web or mobile app using mobile web technologies.
+3.	--> Replicate or even improve an existing web or mobile app using mobile web technologies.
 4.	Proposed and develop a completely new web or hybrid app.
 
 
